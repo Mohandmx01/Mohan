@@ -1,4 +1,4 @@
-from pymongo import MongoClient
+from pymongo import MongoClientt
 cluster=MongoClient("mongodb://localhost:27017")
 
 
